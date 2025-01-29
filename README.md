@@ -1,1 +1,3 @@
-Crop and Fertilizer Recommendation System Using ML (Week 1)
+Crop and Fertilizer Recommendation System Using ML 
+WEEK - 1 Completed
+WEEK - 2 Updated
